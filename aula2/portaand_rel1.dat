@@ -1,0 +1,25 @@
+<Qucs Dataset 0.0.18>
+<indep dtime 4>
+  +0.00000000000e+000
+  +1.00000000000e-009
+  +2.00000000000e-009
+  +3.00000000000e-009
+</indep>
+<dep a.X dtime>
+  0
+  1
+  0
+  1
+</dep>
+<dep b.X dtime>
+  0
+  0
+  1
+  1
+</dep>
+<dep out.X dtime>
+  0
+  0
+  0
+  1
+</dep>

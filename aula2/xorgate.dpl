@@ -1,0 +1,31 @@
+<Qucs Schematic 0.0.18>
+<Properties>
+  <View=0,0,875,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=xorgate.dat>
+  <DataDisplay=xorgate.sch>
+  <OpenDisplay=1>
+  <Script=xorgate.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Desenhado por:>
+  <FrameText2=Data:>
+  <FrameText3=Revisão:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Truth 130 240 150 200 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"output.X" #0000ff 0 3 0 0 0>
+  </Truth>
+  <Time 300 240 300 200 3 #c0c0c0 1 00 1 0 1 2 1 0 1 1 1 0 1 4 315 0 225 "" "" "">
+	<"output.X" #ff0000 0 3 0 0 0>
+  </Time>
+</Diagrams>
+<Paintings>
+</Paintings>
