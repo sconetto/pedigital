@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.19>
 <Properties>
-  <View=-70,-63,1053,800,1,0,63>
+  <View=-70,-63,1053,800,1,0,0>
   <Grid=10,10,1>
   <DataSet=subtrator_1bit.dat>
   <DataDisplay=subtrator_1bit.dpl>
@@ -17,7 +17,6 @@
 </Symbol>
 <Components>
   <.Digi Simulação_02 1 10 10 0 63 0 0 "TruthTable" 1 "30ns" 0 "VHDL" 0>
-  <XOR Y3 1 0 0 -26 27 0 0 "2" 0 "1 V" 0 "0" 0 "10" 0 "old" 0>
   <XOR XOR1 1 500 110 -26 37 0 0 "3" 0 "1 V" 0 "0" 0 "10" 0 "old" 0>
   <DigiSource B 1 310 110 -35 16 0 0 "2" 0 "low" 0 "1ns; 1ns" 0 "1 V" 0>
   <DigiSource A 1 310 40 -35 16 0 0 "1" 0 "low" 0 "1ns; 1ns" 0 "1 V" 0>
@@ -59,8 +58,8 @@
   <310 110 310 110 "B" 310 70 0 "">
   <310 40 310 40 "A" 310 0 0 "">
   <310 180 310 180 "Bin" 320 190 0 "">
-  <370 110 370 110 "NotB" 370 70 0 "">
   <820 110 820 110 "Bout" 850 80 0 "">
+  <370 110 370 110 "NotB" 370 70 0 "">
   <820 240 820 240 "Subtracao" 850 210 0 "">
 </Wires>
 <Diagrams>

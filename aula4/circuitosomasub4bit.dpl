@@ -1,0 +1,53 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-32,1540,935,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=circuitosomasub4bit.dat>
+  <DataDisplay=circuitosomasub4bit.sch>
+  <OpenDisplay=1>
+  <Script=circuitosomasub4bit.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Desenhado por:>
+  <FrameText2=Data:>
+  <FrameText3=Revisão:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Time 50 336 1450 306 3 #c0c0c0 1 00 1 0 1 35 1 0 1 1 1 0 1 512 315 0 225 "" "" "">
+	<"a0.X" #0000ff 0 3 0 0 0>
+	<"b0.X" #ff0000 0 3 0 0 0>
+	<"a1.X" #ff00ff 0 3 0 0 0>
+	<"b1.X" #00ff00 0 3 0 0 0>
+	<"a2.X" #00ffff 0 3 0 0 0>
+	<"b2.X" #ffff00 0 3 0 0 0>
+	<"a3.X" #777777 0 3 0 0 0>
+	<"b3.X" #000000 0 3 0 0 0>
+	<"r3.X" #0000ff 0 3 0 0 0>
+	<"r2.X" #ff0000 0 3 0 0 0>
+	<"r1.X" #ff00ff 0 3 0 0 0>
+	<"r0.X" #00ff00 0 3 0 0 0>
+  </Time>
+  <Truth 50 877 755 497 3 #c0c0c0 1 00 1 50 1 1 1 0 1 1 1 0 1 512 315 0 225 "" "" "">
+	<"a0.X" #0000ff 0 3 0 0 0>
+	<"b0.X" #0000ff 0 3 0 0 0>
+	<"a1.X" #0000ff 0 3 0 0 0>
+	<"b1.X" #0000ff 0 3 0 0 0>
+	<"a2.X" #0000ff 0 3 0 0 0>
+	<"b2.X" #0000ff 0 3 0 0 0>
+	<"a3.X" #0000ff 0 3 0 0 0>
+	<"b3.X" #0000ff 0 3 0 0 0>
+	<"r3.X" #0000ff 0 3 0 0 0>
+	<"r2.X" #0000ff 0 3 0 0 0>
+	<"r1.X" #0000ff 0 3 0 0 0>
+	<"r0.X" #0000ff 0 3 0 0 0>
+  </Truth>
+</Diagrams>
+<Paintings>
+</Paintings>
