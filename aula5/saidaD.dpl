@@ -1,0 +1,39 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,901,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=saidaD.dat>
+  <DataDisplay=saidaD.sch>
+  <OpenDisplay=1>
+  <Script=saidaD.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Desenhado por:>
+  <FrameText2=Data:>
+  <FrameText3=Revisão:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Time 30 186 744 156 3 #c0c0c0 1 00 1 0 1 15 1 0 1 1 1 0 1 16 315 0 225 "" "" "">
+	<"b1.X" #0000ff 0 3 0 0 0>
+	<"b2.X" #ff0000 0 3 0 0 0>
+	<"b3.X" #ff00ff 0 3 0 0 0>
+	<"b4.X" #00ff00 0 3 0 0 0>
+	<"d.X" #00ffff 0 3 0 0 0>
+  </Time>
+  <Truth 40 629 293 339 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 16 315 0 225 "" "" "">
+	<"b1.X" #0000ff 0 3 0 0 0>
+	<"b2.X" #0000ff 0 3 0 0 0>
+	<"b3.X" #0000ff 0 3 0 0 0>
+	<"b4.X" #0000ff 0 3 0 0 0>
+	<"d.X" #0000ff 0 3 0 0 0>
+  </Truth>
+</Diagrams>
+<Paintings>
+</Paintings>
