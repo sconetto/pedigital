@@ -1,0 +1,39 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,905,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=proj1teste.dat>
+  <DataDisplay=proj1teste.sch>
+  <OpenDisplay=1>
+  <Script=proj1teste.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Desenhado por:>
+  <FrameText2=Data:>
+  <FrameText3=Revisão:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Truth 70 364 310 344 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 16 315 0 225 "" "" "">
+	<"a1.X" #0000ff 0 3 0 0 0>
+	<"b1.X" #0000ff 0 3 0 0 0>
+	<"c1.X" #0000ff 0 3 0 0 0>
+	<"d1.X" #0000ff 0 3 0 0 0>
+	<"out.X" #0000ff 0 3 0 0 0>
+  </Truth>
+  <Time 70 613 745 233 3 #c0c0c0 1 00 1 0 1 6 1 0 1 1 1 0 1 16 315 0 225 "" "" "">
+	<"a1.X" #0000ff 0 3 0 0 0>
+	<"b1.X" #ff0000 0 3 0 0 0>
+	<"c1.X" #ff00ff 0 3 0 0 0>
+	<"d1.X" #00ff00 0 3 0 0 0>
+	<"out.X" #00ffff 0 3 0 0 0>
+  </Time>
+</Diagrams>
+<Paintings>
+</Paintings>

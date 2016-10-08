@@ -1,0 +1,22 @@
+<Qucs Dataset 0.0.19>
+<indep dtime 1>
+  +0.00000000000e+000
+</indep>
+<dep net_net0.X dtime>
+  X
+</dep>
+<dep net_net1.X dtime>
+  X
+</dep>
+<dep neta.X dtime>
+  X
+</dep>
+<dep netb.X dtime>
+  X
+</dep>
+<dep netc.X dtime>
+  X
+</dep>
+<dep netout.X dtime>
+  X
+</dep>
